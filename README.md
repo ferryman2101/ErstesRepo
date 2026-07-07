@@ -1,7 +1,6 @@
-# Header
-# Mein erstes Repo
+# Mein erstes Repo (Header)
 
-## Untertitel
+## Wird vielleicht mal ausführlicher (Untertitel)
 
 **fett**
 **Hier findest Du die Readme-Datei.**
