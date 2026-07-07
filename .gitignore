@@ -8,3 +8,5 @@
 *.tmp #all temporary files
 my?ile.txt # matches myfile.txt and my1ile.txt
 log[0-9].txt # matches log0.txt, log1.txt, ..., log9.txt
+
+secret.csv
