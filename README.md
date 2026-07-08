@@ -2,9 +2,9 @@
 
 ## Wird vielleicht mal ausführlicher (Untertitel)
 
-**fett**
 **Hier findest Du die Readme-Datei.**
 
-*kursiv*
+*Warum ist das wichtig?*
 
 Bilder, Links u.a. sind auch möglich.
+... kommen aber später!
